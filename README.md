@@ -38,6 +38,6 @@
 <br/>
 
 ## Sobre mim 
-<h3>💻 Trabalhando atualmente com Next.js  <h3/>
+<h3>💻 Trabalhando atualmente como Professor de Programação  <h3/>
 <h3>📚 Estudando a Matemática, Fisíca e Filosofia <h3>
 <h3>💜 Sempre tentando ajudar outros devs da melhor forma possível<h3>
